@@ -4,7 +4,7 @@ body {
   font-size: 14px;
   line-height: 1.6em;
   font-weight: 400;
-  background-image: url('../images/full-bg.jpg'); /* Add your space background image */
+  background-image: url('../images/full-bg.jpg'); 
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -17,7 +17,7 @@ body {
 }
 
 .icon-container img {
-  width: 210px; /* Adjust the size of the icon */
+  width: 210px;
   height: 150px;
 }
 
@@ -70,7 +70,7 @@ body {
   }
 }
 
-/* Rest of the existing styles remain the same */
+
 
 
 
